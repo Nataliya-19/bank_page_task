@@ -1,6 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100&display=swap');
+
+body {
+    font-family: 'Public Sans', sans-serif;
+    width: 1440px;
+}
+
 .nav {
     background-color: #FFFFFF;
-    width: 1440px; /* добре е да е глобално */
     height: 80px;
 }
 
@@ -35,16 +41,15 @@
 
 #btn {
     color: #FFFFFF;
-    background: linear-gradient(to left, #33D35E, #2AB6D9);
+    background: linear-gradient(to right, #33D35E, #2AB6D9);
     border-radius: 20px;
     width: 163px;
     height: 44px;
-    font-family: [Public Sans];
     font-size: 14px;
     border: 0;
     cursor: pointer;
 }
 
 #btn:hover {
-    filter: brightness(120%); /* mozhe da se podobri*/
+    background: linear-gradient(to right, rgba(51, 211, 94, 0.5), rgba(42, 182, 217, 0.5));
 }
