@@ -24,3 +24,27 @@
     background-color: #2D314D;
     height: 191px;
 }
+
+.header {
+    color: #2D314D;
+}
+
+.text {
+    color: #9597A5;
+}
+
+#btn {
+    color: #FFFFFF;
+    background: linear-gradient(to left, #33D35E, #2AB6D9);
+    border-radius: 20px;
+    width: 163px;
+    height: 44px;
+    font-family: [Public Sans];
+    font-size: 14px;
+    border: 0;
+    cursor: pointer;
+}
+
+#btn:hover {
+    filter: brightness(120%); /* mozhe da se podobri*/
+}
