@@ -1,0 +1,26 @@
+.nav {
+    background-color: #FFFFFF;
+    width: 1440px; /* добре е да е глобално */
+    height: 80px;
+}
+
+.first {
+    background-color: #FAFAFA;
+}
+
+.second {
+    background-color: #F4F5F7;
+}
+
+.third {
+    background-color: #FAFAFA;
+}
+
+.article {
+    background-color: #FFFFFF;
+}
+
+.footer {
+    background-color: #2D314D;
+    height: 191px;
+}
