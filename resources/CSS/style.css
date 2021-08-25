@@ -13,7 +13,7 @@ body {
 
 .container {
     margin-top: 10px;
-    padding-top: 25px;
+    padding-top: 15px;
 }
 
 #logo {
@@ -27,6 +27,12 @@ body {
     margin-left: 30px;
 }
 
+/* not working
+.navMenu:hover {
+    border-bottom: linear-gradient(to right, #33D35E, #2AB6D9);
+}
+*/
+
 .navBtn {
     margin-left: 180px;
 }
@@ -37,6 +43,27 @@ body {
 
 .first {
     background-color: #FAFAFA;
+    display: flex;
+    height: 676px;
+    position: relative;
+}
+
+.cont1 {
+    flex: 1;
+}
+
+#bg {
+    width: 150%;
+    height: 680px;
+    object-fit: cover;  
+    position: relative;  
+}
+
+#mockups {
+    width: 55%;
+    height: 870px;
+    position: absolute;
+    top: 0px;
 }
 
 .second {
