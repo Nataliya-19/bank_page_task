@@ -248,3 +248,7 @@ a {
 a:hover {
     color: #30C88F;
 }
+
+.icon:hover {
+    background-color: #30C88F;
+}

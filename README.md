@@ -2,10 +2,9 @@
 
 to do:
 
-hover na link, ikona otdolu
+hover na ikona otdolu
 hover na header (liniqta otdolu)
-font-weight
 
 
-
-menu za butona
+menu za butona - Изготвяне на стилизиран елемент (modal) за поискване 
+на покана ("Request invite") с дизайн по ваше усмотрение, но в темата на сайта.
