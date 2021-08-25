@@ -14,27 +14,19 @@ body {
     margin-bottom: 0%;
 }
 
-/*
-.nav img {
-    padding-bottom: 0;
-}
-
-.nav #btn {
-    margin-right: 0;
-}
-*/
-
 .container {
     margin-top: 10px;
     padding-top: 25px;
 }
 
-#test {
-    color: red;
-    margin-left: 100px;
-    margin-right: 20px;
-    margin: 60px;
-    padding-top: 500%;
+#logo {
+    margin-right: 100px;
+}
+ 
+#menu {
+    margin-left: 50px;
+    margin-right: 5px;
+   
 }
 
 .nav a:hover {
