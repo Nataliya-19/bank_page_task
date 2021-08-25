@@ -8,6 +8,19 @@ body {
 .nav {
     background-color: #FFFFFF;
     height: 80px;
+    font-weight: 400;
+}
+
+.nav img {
+    padding-bottom: 0;
+}
+
+.nav #btn {
+    margin-right: 0;
+}
+
+.nav a:hover {
+    color: #2D314D;
 }
 
 .first {
@@ -24,15 +37,27 @@ body {
 
 .article {
     background-color: #FFFFFF;
+    width: 255px;
+    height: 395px;
+}
+
+.article img {
+    width: 255px;
+    height: 200px;
 }
 
 .footer {
     background-color: #2D314D;
     height: 191px;
+    color: #FFFFFF;
+}
+
+.footer a{
+    color: #FFFFFF;
 }
 
 .header {
-    color: #2D314D;
+    color: #2D314D; /* ? */
 }
 
 .text {
@@ -52,4 +77,12 @@ body {
 
 #btn:hover {
     background: linear-gradient(to right, rgba(51, 211, 94, 0.5), rgba(42, 182, 217, 0.5));
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #30C88F;
 }
