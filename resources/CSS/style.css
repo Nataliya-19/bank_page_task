@@ -52,9 +52,28 @@ body {
     flex: 1;
 }
 
+#nextGen {
+    font-size: 50px;
+    width: 401px;
+    height: 128px;
+    margin-left: 130px;
+    margin-top: 205px;
+}
+
+#p1 {
+    width: 447px;
+    height: 84px;
+    margin-left: 130px;
+}
+
+.sndbtn {
+    margin-left: 130px;
+}
+
 #bg {
     width: 150%;
     height: 680px;
+    right: 140px;
     object-fit: cover;  
     position: relative;  
 }
