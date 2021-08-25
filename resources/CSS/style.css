@@ -175,6 +175,45 @@ body {
     color: #FFFFFF;
 }
 
+.contacts {
+    margin-left: 130px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.line1 a {
+    margin-left: 160px;
+}
+
+.line1 button {
+    margin-left: 375px;
+}
+
+.line2 {
+    margin-left: 303px;
+}
+
+.support {
+    margin-left: 170px;
+}
+
+.line3 {
+    margin-top: 10px;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+.blog {
+    margin-left: 154px;
+}
+
+.privacy {
+    margin-left: 196px;
+    margin-right: 230px;
+}
+
 .header {
     color: #2D314D; 
 }
