@@ -9,9 +9,6 @@ body {
 .nav {
     background-color: #FFFFFF;
     height: 80px;
-    font-weight: 400;
-    text-align: center;
-    margin-bottom: 0%;
 }
 
 .container {
@@ -20,13 +17,18 @@ body {
 }
 
 #logo {
-    margin-right: 100px;
+    margin-left: 140px;
+    margin-right: 160px;
 }
  
-#menu {
-    margin-left: 50px;
-    margin-right: 5px;
-   
+.navMenu {
+    color: #9597A5;
+    font-weight: 400;
+    margin-left: 30px;
+}
+
+.navBtn {
+    margin-left: 180px;
 }
 
 .nav a:hover {
@@ -65,7 +67,6 @@ body {
 .footer a{
     color: #FFFFFF;
 }
-
 
 .header {
     color: #2D314D; 
