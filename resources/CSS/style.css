@@ -3,20 +3,38 @@
 body {
     font-family: 'Public Sans', sans-serif;
     width: 1440px;
+    font-size: 18px;
 }
 
 .nav {
     background-color: #FFFFFF;
     height: 80px;
     font-weight: 400;
+    text-align: center;
+    margin-bottom: 0%;
 }
 
+/*
 .nav img {
     padding-bottom: 0;
 }
 
 .nav #btn {
     margin-right: 0;
+}
+*/
+
+.container {
+    margin-top: 10px;
+    padding-top: 25px;
+}
+
+#test {
+    color: red;
+    margin-left: 100px;
+    margin-right: 20px;
+    margin: 60px;
+    padding-top: 500%;
 }
 
 .nav a:hover {
@@ -38,7 +56,7 @@ body {
 .article {
     background-color: #FFFFFF;
     width: 255px;
-    height: 395px;
+    height: 595px;
 }
 
 .article img {
@@ -56,8 +74,9 @@ body {
     color: #FFFFFF;
 }
 
+
 .header {
-    color: #2D314D; /* ? */
+    color: #2D314D; 
 }
 
 .text {
