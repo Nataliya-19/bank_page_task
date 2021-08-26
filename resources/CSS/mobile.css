@@ -215,5 +215,5 @@ a:hover {
 }
 
 .icon:hover {
-    background-color: #30C88F;
+    filter: brightness(0);
 }
