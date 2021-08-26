@@ -147,7 +147,7 @@ body {
 
 .footer {
     background-color: #2D314D;
-    height: 191px;
+    height: 510px;
     color: #FFFFFF;
 }
 
@@ -156,42 +156,31 @@ body {
 }
 
 .contacts {
-    margin-left: 130px;
+    margin-left: 10px;
     margin-top: 50px;
     display: inline-block;
 }
 
-.line1 a {
-    margin-left: 160px;
+#whiteLogo {
+    margin-bottom: 10px;
 }
 
-.line1 button {
-    margin-left: 375px;
-}
-
-.line2 {
-    margin-left: 303px;
-}
-
-.support {
-    margin-left: 170px;
-}
-
-.line3 {
-    margin-top: 10px;
+.socialMedia {
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .icon {
     margin-right: 5px;
 }
 
-.blog {
-    margin-left: 154px;
+.bottomLinks {
+    margin-top: 10px;
 }
 
-.privacy {
-    margin-left: 196px;
-    margin-right: 230px;
+.lastBtn {
+    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .header {
